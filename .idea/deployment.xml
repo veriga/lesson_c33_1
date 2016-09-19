@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Cobbler">
+    <serverData>
+      <paths name="Cobbler">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/lesson/css3_1" local="$PROJECT_DIR$" web="//lesson/css3_1" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
